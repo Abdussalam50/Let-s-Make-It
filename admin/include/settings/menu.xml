@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>A</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>../home/index.php</l></menu>
+<!-- SETTING -->
+<menu><id>B</id><s>0</s><t>m</t><i>fa fa-edit</i><n>Master Data</n><l>#</l></menu>
+<menu><id>C</id><s>0</s><t>m</t><i>fa fa-calendar</i><n>Laporan</n><l>#</l></menu>
+
+<!-- MASTERDATA -->
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Admin </n><l>../data_admin/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Artikel Tips </n><l>../data_artikel_tips/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Detail Latihan </n><l>../data_detail_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Detail Program </n><l>../data_detail_program/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Hasil Quiz </n><l>../data_hasil_quiz/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Jenis Latihan </n><l>../data_jenis_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Jadwal Latihan </n><l>../data_jadwal_program_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Program Latihan </n><l>../data_program_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Quiz </n><l>../data_quiz/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Riwayat Latihan </n><l>../data_riwayat_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Tipe Latihan </n><l>../data_tipe_latihan/index.php</l></menu>
+<menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data User </n><l>../data_user/index.php</l></menu>
+
+<!-- LAPORAN -->
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Admin </n><l>../data_admin/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Artikel Tips </n><l>../data_artikel_tips/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Detail Latihan </n><l>../data_detail_latihan/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Detail Program </n><l>../data_detail_program/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Hasil Quiz </n><l>../data_hasil_quiz/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Jenis Latihan </n><l>../data_jenis_latihan/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Program Latihan </n><l>../data_program_latihan/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Quiz </n><l>../data_quiz/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Riwayat Latihan </n><l>../data_riwayat_latihan/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Tipe Latihan </n><l>../data_tipe_latihan/index.php?input=cetak</l></menu>
+<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data User </n><l>../data_user/index.php?input=cetak</l></menu>
+
+
+</humans>
